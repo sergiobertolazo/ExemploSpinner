@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ExemploSpinner</string>
+
+
+    <string name="action_settings">Settings</string>
+
+
+
+    <string-array name="passagens">
+        <item>Selecione o horario do voo</item>
+        <item>12:00</item>
+        <item>14:00</item>
+        <item>15:45</item>
+        <item>17:30</item>
+        <item>19:00</item>
+        <item>20:45</item>
+        <item>21:30</item>
+        <item>00:00</item>
+    </string-array>
+
+
+    <string-array name="countries">
+        <item>Escolha seu local de origem</item>
+        <item>Sao paulo</item>
+        <item>Rio de janeiro</item>
+        <item>porto alegre</item>
+        <item>salvador</item>
+        <item>brasilia</item>
+        <item>mato grosso</item>
+        <item>parana</item>
+        <item>Minas gerais</item>
+    </string-array>
+
+    <string-array name="countries2">
+        <item>Escolha seu país Destino</item>
+        <item>Jamaica</item>
+        <item>África do Sul</item>
+        <item>Alemanha</item>
+        <item>Argentina</item>
+        <item>Austrália</item>
+        <item>Canadá</item>
+        <item>Inglaterra</item>
+        <item>Japão</item>
+    </string-array>
+    <string name="title_activity_tela_de_passagens">TelaDePassagens</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
+
